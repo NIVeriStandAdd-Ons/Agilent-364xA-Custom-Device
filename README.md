@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## Agilent 364xA Custom Device ##
 
 **Agilent 364xA Custom Device** allows control of Agilent 364xA DC power supplies from NI VeriStand
